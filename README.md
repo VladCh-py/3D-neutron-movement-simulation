@@ -6,6 +6,7 @@ For each neutron, the free path length is sampled from an exponential distributi
 During program execution:
 
 *if enabled, neutron motion can be visualized in real time;
+
 *simultaneously, in a separate window, a histogram is plotted representing the neutron flux as a function of distance r from the cylinder center.
 The plots are generated using the Matplotlib library.
 
